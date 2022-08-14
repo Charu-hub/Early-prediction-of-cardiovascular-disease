@@ -1,5 +1,5 @@
 # Heart-diagnosis
-Cardiovascular disease are often operated efficaciously with an amalgamation of lifestyle changes,
+Cardiovascular disease(CVD) are often operated efficaciously with an amalgamation of lifestyle changes,
 medicine and, in some instances, surgery. With the proper treatment, the symptoms of
 heart condition are often lessened and therefore the working of the heart is improved.
 The predicted results can be used to prevent this and thus reducing cost for surgery and
